@@ -1,0 +1,135 @@
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+
+html{
+    font-size: 62.5%;
+
+}
+
+body{
+    background-color: white;
+}
+
+.buttons{
+    width: 100%;
+    font-size: 2rem;
+    padding: 1.5%;
+    text-align: center;
+}
+
+.button1{
+    background-color: #FF764E;
+    margin: 0 auto;
+    border-radius: 5%;
+    padding: 1%;
+}
+
+.button2{
+    background-color: #5ED3EB;
+    padding: 1%;
+    border-radius: 5%;
+}
+
+.button3{
+    background-color: #FFCD69;
+    padding: 1%;
+    border-radius: 5%;
+}
+
+.header_img{
+    border-radius: 50%;
+    width: 10%;
+    display:inline-block;
+    margin: 1%;
+    vertical-align: middle;
+}
+
+
+.tcinfo{
+    display:inline-block;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tcinfotxt{
+    display:inline-block;
+    width: 40%;
+    padding: 1%;
+    margin: 1% 1%;
+    vertical-align: middle;
+}
+
+.topbanner{
+    background-color: salmon;
+    color: white;
+    width: 50%;
+    max-width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 5rem;
+    padding: 3%;
+}
+
+p{
+        font-family: 'Roboto Mono', monospace;
+        font-size: 1.5rem;
+        padding: 1.5px;
+}
+
+a{
+    margin-left: 10%;
+    color: white;
+    text-decoration: none;
+}
+
+.fire_img{
+    height: 150px;
+}
+
+.truck_img{
+    height: 150px;
+}
+
+.footerimg{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+}
+
+.footer{
+    width: 100%;
+    font-size: 2rem;
+    margin: 0 auto ;
+    padding: 1.5%;
+    text-align: center;
+    background-color: #F9E7DC;
+    vertical-align: top;
+}
+
+.icotext{
+    width: 50%;
+    max-width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 1%;
+    justify-content: center;
+}
+
+.icotext p{
+    margin-left:auto;
+    margin-right:auto;
+    width: 30%;
+    padding: 1%;
+    text-align: center;
+}
